@@ -170,6 +170,7 @@ pip install torch torchvision numpy pandas matplotlib scikit-learn imbalanced-le
 
 ---
 
-This project demonstrates deep learning’s effectiveness in financial forecasting and provides a framework for future improvements in predictive modeling for stock market analysis.
+## Summary
+This project demonstrates the application of deep learning techniques to stock market prediction and predictive maintenance classification. By exploring different model architectures, data preprocessing techniques, and evaluation metrics, this project provides a solid foundation for further research and development in these areas. The potential improvements and future directions outlined in this document offer a roadmap for enhancing the performance and applicability of these models in real-world scenarios.
 
 
