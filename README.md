@@ -172,3 +172,4 @@ pip install torch torchvision numpy pandas matplotlib scikit-learn imbalanced-le
 
 This project demonstrates deep learning’s effectiveness in financial forecasting and provides a framework for future improvements in predictive modeling for stock market analysis.
 
+
